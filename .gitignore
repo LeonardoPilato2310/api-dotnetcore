@@ -1,0 +1,27 @@
+# Diretórios e arquivos do .NET
+bin/
+obj/
+
+# Configurações do usuário
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.ide
+
+# Arquivos do NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Cache do Visual Studio
+.vs/
+
+# Arquivos gerados automaticamente
+*.Generated.cs
